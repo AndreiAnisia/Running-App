@@ -1,0 +1,19 @@
+{
+   "name": "mapty-app",
+   "version": "1.0.0",
+   "description": "Running App",
+   "default": "script.js",
+   "scripts": {
+      "start": "parcel index.html",
+      "build": "parcel build index.html --dist-dir ./dist"
+   },
+   "author": "Andrei Anisia",
+   "license": "ISC",
+   "devDependencies": {
+      "parcel": "*"
+   },
+   "dependencies": {
+      "core-js": "^3.10.2",
+      "regenerator-runtime": "^0.13.7"
+   }
+}
