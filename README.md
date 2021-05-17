@@ -2,7 +2,7 @@
 
 ### [Live Site](https://running-app-aa.netlify.app/)
 
-![Running App](https://postimg.cc/RNmdJTf3)
+![Running App](https://i.postimg.cc/J4D2g6zQ/mapty.png)
 
 # Introduction
 
