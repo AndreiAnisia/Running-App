@@ -2,7 +2,7 @@
 
 ### [Live Site](https://running-app-aa.netlify.app/)
 
-![Running App](https://ibb.co/cNd2Kdt)
+![Running App](https://postimg.cc/RNmdJTf3)
 
 # Introduction
 
